@@ -10,9 +10,7 @@
 
 3. Open the file DevelopmentChallenge.sln with Visual Studio 2019 / 2022
 
-4. Restore Nuget packages
+4. Compile the solution
 
-5. Compile the solution
-
-6. Run Tests (DevelopmentChallenge.Data.Tests)
+5. Run Tests (DevelopmentChallenge.Data.Tests)
 
