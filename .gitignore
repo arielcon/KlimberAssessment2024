@@ -30,7 +30,6 @@ iolasp/services/xml/*.xml
 *.pdb
 ipch/
 obj/
-packages/
 .vs/
 [Bb]in
 [Dd]ebug*/

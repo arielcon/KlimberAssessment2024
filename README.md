@@ -8,7 +8,7 @@
 
 2. CD into the repo: `cd /path/to/repo`
 
-3. Open with Visual Studio 2019 / 2022
+3. Open the file DevelopmentChallenge.sln with Visual Studio 2019 / 2022
 
 4. Restore Nuget packages
 
