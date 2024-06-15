@@ -1,6 +1,7 @@
 ﻿
 namespace DevelopmentChallenge.Data.Enums
-{    public enum ETipoForma
+{
+    public enum ETipoForma
     {
         Cuadrado = 1,
         TrianguloEquilatero = 2,

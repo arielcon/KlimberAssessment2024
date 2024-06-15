@@ -1,6 +1,7 @@
 ﻿
 namespace DevelopmentChallenge.Data.Enums
-{    public enum EIdioma
+{
+    public enum EIdioma
     {
         Castellano = 1,
         Ingles = 2,

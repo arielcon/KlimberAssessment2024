@@ -10,9 +10,9 @@ namespace DevelopmentChallenge.Data.Classes
         decimal _baseMayor;
         decimal _altura;
         public Trapecio(
-            decimal baseMenor, 
+            decimal baseMenor,
             decimal altura,
-            decimal baseMayor) : 
+            decimal baseMayor) :
                 base(ETipoForma.Trapecio)
         {
             _baseMenor = baseMenor;
@@ -21,7 +21,7 @@ namespace DevelopmentChallenge.Data.Classes
         }
         public override decimal CalcularArea()
         {
-            return (_altura/2) * (_baseMenor + _baseMayor);
+            return (_altura / 2) * (_baseMenor + _baseMayor);
         }
 
         public override decimal CalcularPerimetro()

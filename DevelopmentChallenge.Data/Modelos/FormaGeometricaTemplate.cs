@@ -13,8 +13,8 @@ namespace DevelopmentChallenge.Data.Modelos
         public decimal? ValorInicialBaseMayor { get; set; }
 
         public FormaGeometricaTemplate(
-            ETipoForma tipoForma, 
-            decimal valorInicialBase, 
+            ETipoForma tipoForma,
+            decimal valorInicialBase,
             decimal? valorInicialAltura = null,
             decimal? valorInicialBaseMayor = null)
         {

@@ -6,7 +6,7 @@ using System;
 public static class FormaGeometricaFactory
 {
     public static FormaGeometrica CrearForma(
-        ETipoForma tipoForma, 
+        ETipoForma tipoForma,
         decimal valorInicialBase,
         decimal? valorInicialAltura,
         decimal? valorInicialBaseMayor)
